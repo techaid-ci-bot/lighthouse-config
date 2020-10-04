@@ -11,6 +11,21 @@ config_updater:
     plugins.yaml:
       name: plugins  
 plugins:
+  techaid-tech:
+  - approve
+  - assign
+  - blunderbuss
+  - cat
+  - dog
+  - help
+  - heart
+  - hold
+  - label
+  - lgtm
+  - trigger
+  - verify-owners
+  - wip
+  - yuks
   techaid-ci-bot/lighthouse-config:
   - config-updater
   - approve
