@@ -11,7 +11,7 @@ config_updater:
     plugins.yaml:
       name: plugins  
 plugins:
-  # Main repo
+  # Techaid repo configuration
   techaid-tech:
   - approve
   - assign

@@ -4,5 +4,8 @@ tide:
   queries:
   - labels:
     - approved
+    - lgtm
     repos:
     - techaid-ci-bot/lighthouse-config
+    orgs:
+    - techaid-tech
