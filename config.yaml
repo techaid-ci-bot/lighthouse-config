@@ -1,8 +1,7 @@
 pod_namespace: lighthouse
 prowjob_namespace: lighthouse
 in_repo_config:
-  enabled:
-    "*": true
+  enabled: {}
 tide:
   queries:
   - labels:
