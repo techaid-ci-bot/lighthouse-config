@@ -1,10 +1,12 @@
 pod_namespace: lighthouse
 prowjob_namespace: lighthouse
+in_repo_config:
+  enabled:
+    "*": true
 tide:
   queries:
   - labels:
     - approved
-    - lgtm
     repos:
     - techaid-ci-bot/lighthouse-config
     orgs:
