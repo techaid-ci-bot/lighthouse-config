@@ -27,6 +27,7 @@ plugins:
   - verify-owners
   - wip
   - yuks
+  - lifecycle
   techaid-ci-bot/lighthouse-config:
   - config-updater
   - approve
@@ -43,3 +44,4 @@ plugins:
   - verify-owners
   - wip
   - yuks
+  - lifecycle
