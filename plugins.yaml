@@ -2,6 +2,7 @@ approve:
 - lgtm_acts_as_approve: false
   repos:
   - techaid-ci-bot/lighthouse-config
+  - techaid-tech
   require_self_approval: true
 config_updater:
   gzip: false
